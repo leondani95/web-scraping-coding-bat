@@ -4,7 +4,7 @@ This project is a web scraper for the [CodingBat](https://codingbat.com) website
 
 ## Files
 
-- `scraper.py`: This is the Python script that I wrote to perform the web scraping.
+- `web_scraping_codingbat.py`: This is the Python script that I wrote to perform the web scraping.
 
 ## Requirements
 
