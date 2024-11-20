@@ -1,4 +1,4 @@
-# web Scrapping Project - CodingBar
+# Web Scrapping Project - CodingBar
 
 This project is a web scraper for the [CodingBat](https://codingbat.com) website, designed to extract programming problems and related examples. It uses popular Python libraries such as `requests`, `BeautifulSoup`, and `fake_useragent`.
 
